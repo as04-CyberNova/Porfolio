@@ -52,11 +52,12 @@ You only need:
 📁 Project Structure
 
 portfolio/
-│── index.html      # Main HTML file
 
-│── style.css       # CSS styling file
+index.html      # Main HTML file
 
-│── README.md       # Project documentation
+style.css       # CSS styling file
+
+README.md       # Project documentation
 
 🤝 Contribution
 
