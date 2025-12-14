@@ -53,7 +53,9 @@ You only need:
 
 portfolio/
 │── index.html      # Main HTML file
+
 │── style.css       # CSS styling file
+
 │── README.md       # Project documentation
 
 🤝 Contribution
