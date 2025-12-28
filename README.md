@@ -1,81 +1,28 @@
-🌐 Portfolio Website
+Personal Portfolio Website
 
-📌 Project Overview
+This repository contains my personal portfolio website, built as part of my learning journey in web development.
+It reflects my growth from basic structure to a more organized and clean layout, developed step by step.
 
-This is a personal portfolio website created using HTML and CSS to showcase my skills, projects, and contact information 💻✨
-The website features a clean layout, smooth hover animations, and a responsive design to provide a great user experience across all devices 📱🖥️.
+Versions Overview
+🔹 Version 1 – Basic Portfolio
+Simple, resume-style layout
+Built using basic HTML and CSS
+Focused on understanding structure, headings, and content flow
+Represents my foundation and early learning stage
 
-✨ Features
+🔹 Version 2 – Updated Portfolio
+Improved layout with clear sections (Home, About, Skills, Projects, Contact)
+Uses Flexbox for better alignment and layout
+Cleaner design, better spacing, and improved readability
+Built with a focus on fundamentals and gradual improvement
 
-🧑‍💻 Clean and modern user interface
+🛠 Tech Stack
+HTML5
+CSS3
+VS Code
 
-🎨 Smooth hover effects and animations
+🌱 Learning Purpose
+This project is created for practice and learning, not perfection.
+Each version represents steady progress and respect for the basics.
 
-📱 Responsive design for mobile and desktop
-
-📁 Project showcase section
-
-🛠️ Skills section
-
-📬 Contact information section
-
-⚡ Fast and lightweight (no frameworks used)
-
-🧰 Technology Stack
-
-HTML5 🧱 – Structure of the website
-
-CSS3 🎨 – Styling, layout, and animations
-
-🚀 Getting Started
-
-Follow these steps to run the project locally on your machine:
-
-Clone the repository or download the ZIP file
-
-Open the project folder
-
-Open index.html in your web browser
-
-Start customizing the content ✨
-
-✅ Prerequisites
-
-You only need:
-
-🌐 A modern web browser (Chrome, Firefox, Edge, etc.)
-
-📝 A code editor (VS Code recommended)
-
-🧠 Basic knowledge of HTML & CSS
-
-📁 Project Structure
-
-portfolio/
-
-index.html      # Main HTML file
-
-style.css       # CSS styling file
-
-README.md       # Project documentation
-
-🤝 Contribution
-
-Contributions are welcome! 🎉
-
-If you’d like to improve this project:
-
-Fork the repository 🍴
-
-Create a new branch (feature-new-design)
-
-Make your changes ✨
-
-Commit and push your code
-
-Open a Pull Request 🚀
-
-Feel free to suggest improvements, report bugs, or add new features!
-⭐ Final Note
-
-This project is built for learning and practice purposes and will continue to evolve as I grow as a web developer 🌱💻.
+Suggestions and feedback are always appreciated.
