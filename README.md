@@ -5,7 +5,7 @@ It reflects my growth from basic structure to a more organized and clean layout,
 
 Versions Overview
 
-🔹 Version 1 – Basic Portfolio
+🔹 Version 1 – Basic Portfolio(now removed)
 
 Simple, resume-style layout
 Built using basic HTML and CSS
